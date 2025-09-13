@@ -10,4 +10,7 @@ This is my <b> Personal Portfolio Website </b> built using <b> HTML, CSS, and Ja
 - 📞 **Contact Section** – Easy way to reach out  
 
 ## 📞 Contact
+- 📧 **Email**: bhalaamanas@gmail.com
+- 💼 **LinkedIn**: www.linkedin.com/in/manas-anand-066ba52b9
+ 
 
